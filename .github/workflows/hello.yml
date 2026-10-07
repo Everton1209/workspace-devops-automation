@@ -3,7 +3,7 @@ name: Hello Github Action
 on:
   push:
     branches:
-      -main
+      - main
 
 jobs:
   say-hello:
